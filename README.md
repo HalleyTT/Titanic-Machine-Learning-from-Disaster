@@ -13,15 +13,15 @@ Data Handling:
 
 Data Analysis:
 
-        1.Supervised Machine learning Techniques,
+     1.Supervised Machine learning Techniques,
 	
 	2.Logit Regression Model,
 	
 	3.Plotting results,
 	
-	4.Support Vector Machine (SVM) using 3 kernels,
+        4.Support Vector Machine (SVM) using 3 kernels,
 	
-        5.Basic Random Forest,
+     5.Basic Random Forest,
 	
 	6.Plotting results.
 	
