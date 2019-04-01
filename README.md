@@ -4,14 +4,15 @@ Kaggle Competition
 
 Data Handling:
 
-1.Importing Data with Pandas,
+      1.Importing Data with Pandas,
 
-2.Cleaning Data,
+      2.Cleaning Data,
 
-3.Exploring Data through Visualizations with Matplotlib.
+      3.Exploring Data through Visualizations with Matplotlib.
 
 
 Data Analysis:
+
         1.Supervised Machine learning Techniques,
 	
 	2.Logit Regression Model,
@@ -27,6 +28,7 @@ Data Analysis:
 	
 	
 Valuation of the Analysis:
-	1.K-folds cross validation to valuate results locally,
+	 
+	 1.K-folds cross validation to valuate results locally,
 	
-        2.output the results from the IPython Notebook to Kaggle.
+         2.output the results from the IPython Notebook to Kaggle.
